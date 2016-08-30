@@ -3,7 +3,12 @@
 */
 #include <psp2/types.h>
 #include <psp2/display.h>
+
+#include <stdio.h>
+#include <stdarg.h>
+#include <stdlib.h>
 #include <string.h>
+
 #include "blit.h"
 
 #define ALPHA_BLEND 1
