@@ -22,7 +22,12 @@ Any amount of donation is a big support for Vitamin development and therefore hi
 
 **About this built**
 
-This built differs from the leaked version alot:
+Changelog v1.1
+
+* Added support for cartridges dumping which have grw0:.
+* Added files restoration in case your dump failed (fixes 0x80010011 error and Morphine name in LA. You need to launch Vitamin in order to restore the files).
+
+The v1.0 differs from the leaked version by alot:
 
 * Amphetamin plugin
 * Additional self dumping (higher compatibility)
