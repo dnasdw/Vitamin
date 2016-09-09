@@ -16,6 +16,7 @@ We also want to express our thankfulness to Team molecule, as their work HENkaku
 
 
 **Changelog v2.0**
+
 * Increased compatibility dramatically.
 * Added support for additional content (DLC) at 'ux0:addcont_plain'.
 * Added possibility to choose compression level.
