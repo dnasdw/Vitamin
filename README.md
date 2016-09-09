@@ -15,10 +15,11 @@ Beside all these people that made us feel sad, there's luckly an even bigger gro
 We also want to express our thankfulness to Team molecule, as their work HENkaku is brilliant. A masterpiece. Their work is true hacking. Ours on the other hand is just a software that makes use of some tricks to dump games.
 
 
-**Donation**
-
-Any amount of donation is a big support for Vitamin development and therefore highly appreciated: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y7CVA9VSJA2VW
-
+**Changelog v2.0**
+* Increased compatibility dramatically.
+* Added support for additional content (DLC) at 'ux0:addcont_plain'.
+* Added possibility to choose compression level.
+* Added trial -> full patch (You can for example download Minecraft demo, dump it, and run it as full game).
 
 **Changelog v1.1**
 
